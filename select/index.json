@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "P.U.S.P.A.",
+  "base_artist": "ST12",
+  "createdAt": "2026-03-01T09:45:43.590254Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "P.U.S.P.A.",
+      "artist": "ST12",
+      "has_synced": true,
+      "path": "select/01_P.U.S.P.A._ST12.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "P.U.S.P.A.",
+      "artist": "ST12",
+      "has_synced": true,
+      "path": "select/02_P.U.S.P.A._ST12.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "P.U.S.P.A",
+      "artist": "ST12",
+      "has_synced": false,
+      "path": "select/03_P.U.S.P.A_ST12.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "P.U.S.P.A",
+      "artist": "ST12",
+      "has_synced": true,
+      "path": "select/04_P.U.S.P.A_ST12.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "P.U.S.P.A.",
+      "artist": "ST12",
+      "has_synced": false,
+      "path": "select/05_P.U.S.P.A._ST12.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "P.U.S.P.A.",
+      "artist": "ST12",
+      "has_synced": false,
+      "path": "select/pl_01_P.U.S.P.A._ST12.txt"
+    }
+  ]
+}
